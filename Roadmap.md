@@ -66,4 +66,81 @@
 - idioma: Ingles
 - Skills: Javascript
 
+## Familiarízate con los principios básicos de la programación
+- [Link](https://skillshop.exceedlms.com/student/collection/668989)
+- Tracking: La plataforma de Google Courses te muestra si completaste la sección.
+- Requisitos: Manejo del browser y de una computadora.
+- Idioma: Español.
+- Skills: Conceptos básicos del código, cómo funciona, para qué sirve y cómo puede ayudarte.
+
+## Introducción a la programación
+- [Link](https://learn.microsoft.com/es-es/training/modules/web-development-101-introduction-programming/)
+- Tracking: La plataforma de Microsoft Learning te muestra si completaste la sección.
+- Requisitos: Manejo del browser y de una computadora.
+- Idioma: Español.
+- Skills: Aspectos básicos de los lenguajes de programación
+
+## Editor de código: Visual Studio Code
+- [Link](https://www.udemy.com/course/visual-studio-code-el-mejor-editor-de-codigo/)
+- Tracking: La plataforma de Udemy te muestra si completaste la lectura o el video.
+- Requisitos: Manejo del browser y de una computadora.
+- Idioma: Español.
+- Skills: Conocimiento del editor de código Visual Studio Code.
+
+## Markdown
+- [Link](https://www.udemy.com/course/aprenda-markdown-desde-cero/)
+- Tracking: La plataforma de Udemy te muestra si completaste la lectura o el video.
+- Requisitos: Manejo del browser y de una computadora.
+- Idioma: Español.
+- Skills: Conocimiento de Markdown
+
+## Primeros pasos con Git y GitHub (Modulo 1 y 2)
+- [Link](https://www.coursera.org/learn/getting-started-with-git-and-github)
+- Tracking: La plataforma de Coursera te muestra si completaste la lectura o el video.
+- Requisitos: Manejo del browser y de una computadora.
+- Idioma: Ingles, subtitulos español.
+- Skills: Conocimiento de GIT y GitHub.
+
+## Introducción a HTML5
+- [Link](https://www.coursera.org/learn/html/home/week/1)
+- Tracking: La plataforma de Coursera te muestra si completaste la lectura o el video.
+- Requisitos: Manejo del browser y de una computadora.
+- Idioma: Ingles, subtitulos español
+- Skills: Conocimiento de HTML5.
+
+## Introducción a CSS3
+- [Link](https://www.coursera.org/learn/introcss)
+- Tracking: La plataforma de Coursera te muestra si completaste la lectura o el video.
+- Requisitos: Manejo de HTML5.
+- Idioma: Ingles, subtitulos español.
+- Skills: Conocimiento de CSS3.
+
+## Learn HTML and CSS
+- [Link](https://scrimba.com/learn/htmlandcss)
+- Tracking: La plataforma de Scrimba te muestra el progreso de cada video.
+- Requisitos: Manejo de HTML5 y CSS3
+- Idioma: Ingles
+- Skills: Conocimiento de HTML5 y CSS3.
+
+## JavaScript
+- [Link]( )
+- Tracking: 
+- Requisitos: 
+- Idioma: 
+- Skills:
+
+## React JS
+- [Link]()
+- Tracking: 
+- Requisitos: 
+- Idioma: 
+- Skills:
+
+## Next JS
+- [Link]()
+- Tracking: 
+- Requisitos: 
+- Idioma: 
+- Skills:
+
 
